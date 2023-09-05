@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[<img src="https://i.imgur.com/VaOJ8kM.png">](https://www.linkedin.com/in/lukas-penetzdorfer/)
 <!--
 **penetzdorfer-L/penetzdorfer-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
